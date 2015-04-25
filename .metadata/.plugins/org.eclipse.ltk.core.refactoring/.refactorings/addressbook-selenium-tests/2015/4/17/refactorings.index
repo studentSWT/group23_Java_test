@@ -1,0 +1,14 @@
+1429885088463	Extract method 'openMainPage'
+1429885121594	Extract method 'gotoGroupsPage'
+1429885169419	Extract method 'initNewGroupCreation'
+1429885220637	Extract method 'fillGroupForm'
+1429885252221	Extract method 'submitGroupCreation'
+1429885297076	Extract method 'returnToGroupsPage'
+1429885864946	Introduce parameter for 'fillGroupForm'
+1429885888688	Introduce parameter for 'fillGroupForm'
+1429885910101	Introduce parameter for 'fillGroupForm'
+1429886718099	Rename local variable 'name'
+1429886918694	Introduce Parameter Object
+1429887358452	Extract local variable 'group'
+1429892698788	Copy compilation unit
+1429893569169	Pull up members to 'TestBase'
