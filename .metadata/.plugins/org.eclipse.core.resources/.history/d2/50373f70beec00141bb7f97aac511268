@@ -1,0 +1,71 @@
+package com.example.tests;
+
+
+import org.testng.annotations.Test;
+
+public class ContactCreationTests extends TestBase{
+
+  @Test
+  public void testNonEmptyContactCreation() throws Exception {
+	openMainPage();
+	initNewContactCreation();
+    ContactData contact = new ContactData();
+    contact.firstName = "vika4";
+    contact.lastName = "kot3";
+    contact.address1 = "addr";
+    contact.phoneHome = "111";
+    contact.phoneMobile = "222";
+    contact.phoneWork = "333";
+    contact.email1 = "aaa@bb.cc";
+    contact.email2 = "aaa1@bb.cc";
+    contact.bDay = "10";
+    contact.bMonth = "June";
+    contact.bYear = "1980";
+    contact.address2 = "address3";
+    contact.phoneHome2 = "555";
+   
+	fillContactForm(contact);
+    submitContactCreation();
+    gotoHomePage();
+  }
+  
+  @Test
+  public void testDEmptyContactCreation() throws Exception {
+	openMainPage();
+	initNewContactCreation();
+    ContactData contact = new ContactData();
+	
+    contact.firstName = "sw1";
+    contact.lastName = "";
+    contact.address1 = "";
+    contact.phoneHome = "";
+    contact.phoneMobile = "";
+    contact.phoneWork = "";
+    contact.email1 = "";
+    contact.email2 = "";
+    contact.bDay = "10";
+    contact.bMonth = "September";
+    contact.bYear = "1990";
+    contact.address2 = "address3";
+    contact.phoneHome2 = "555";
+    fillContactForm(contact);
+    submitContactCreation();
+    gotoHomePage();
+  }
+  
+  @Test
+  public void testEmptyContactCreation() throws Exception {
+	openMainPage();
+	initNewContactCreation();
+    fillContactForm(new ContactData("", "", "", "", "", "", "", "", "", "", "", "", ""));
+    submitContactCreation();
+    gotoHomePage();
+  }
+
+
+
+
+
+
+
+}

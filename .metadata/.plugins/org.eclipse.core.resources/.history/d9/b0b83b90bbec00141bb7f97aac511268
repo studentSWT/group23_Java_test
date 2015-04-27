@@ -1,0 +1,155 @@
+package com.example.tests;
+
+import java.util.regex.Pattern;
+import java.util.concurrent.TimeUnit;
+
+import static org.junit.Assert.*;
+import static org.hamcrest.CoreMatchers.*;
+
+import org.openqa.selenium.*;
+import org.openqa.selenium.firefox.FirefoxDriver;
+import org.openqa.selenium.support.ui.Select;
+import org.testng.annotations.AfterClass;
+import org.testng.annotations.BeforeClass;
+import org.testng.annotations.Test;
+
+public class ContactCreationTests {
+  private WebDriver driver;
+  private String baseUrl;
+  private boolean acceptNextAlert = true;
+  private StringBuffer verificationErrors = new StringBuffer();
+
+  @BeforeClass
+  
+  public void setUp() throws Exception {
+    driver = new FirefoxDriver();
+    baseUrl = "http://localhost/";
+    driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
+  }
+
+  @Test
+  public void testNonEmptyContactCreation() throws Exception {
+	// open main page
+    driver.get(baseUrl + "/addressbookv4.1.4/");
+    initNewContactCreation();
+    ContactData contact = new ContactData();
+    contact.firstName = "vika3";
+    contact.lastName = "kot3";
+    contact.address1 = "addr";
+    contact.phoneHome = "111";
+    contact.phoneMobile = "222";
+    contact.phoneWork = "333";
+    contact.email1 = "aaa@bb.cc";
+    contact.email2 = "aaa1@bb.cc";
+    contact.bDay = "10";
+    contact.bMonth = "June";
+    contact.bYear = "1980";
+    contact.address2 = "address3";
+    contact.phoneHome2 = "555";
+   
+	fillContactForm(contact);
+    submitContactCreation();
+    gotoHomePage();
+  }
+  
+  @Test
+  public void testDEmptyContactCreation() throws Exception {
+	// open main page
+    driver.get(baseUrl + "/addressbookv4.1.4/");
+    initNewContactCreation();
+    fillContactForm(new ContactData("", "", "", "", "", "", "", "", "1960", "19", "May", "address 22", "home 22"));
+    submitContactCreation();
+    gotoHomePage();
+  }
+  
+  @Test
+  public void testEmptyContactCreation() throws Exception {
+	// open main page
+    driver.get(baseUrl + "/addressbookv4.1.4/");
+    initNewContactCreation();
+    fillContactForm(new ContactData("", "", "", "", "", "", "", "", "", "", "", "", ""));
+    submitContactCreation();
+    gotoHomePage();
+  }
+  
+private void gotoHomePage() {
+    driver.findElement(By.linkText("home")).click();
+}
+
+private void submitContactCreation() {
+    driver.findElement(By.name("submit")).click();
+}
+
+private void fillContactForm(ContactData contact) {
+    driver.findElement(By.name("firstname")).clear();
+    driver.findElement(By.name("firstname")).sendKeys(contact.firstName);
+    driver.findElement(By.name("lastname")).clear();
+    driver.findElement(By.name("lastname")).sendKeys(contact.lastName);
+    driver.findElement(By.name("address")).clear();
+    driver.findElement(By.name("address")).sendKeys(contact.address1);
+    driver.findElement(By.name("home")).clear();
+    driver.findElement(By.name("home")).sendKeys(contact.phoneHome);
+    driver.findElement(By.name("mobile")).clear();
+    driver.findElement(By.name("mobile")).sendKeys(contact.phoneMobile);
+    driver.findElement(By.name("work")).clear();
+    driver.findElement(By.name("work")).sendKeys(contact.phoneWork);
+    driver.findElement(By.name("email")).clear();
+    driver.findElement(By.name("email")).sendKeys(contact.email1);
+    driver.findElement(By.name("email2")).clear();
+    driver.findElement(By.name("email2")).sendKeys(contact.email2);
+    new Select(driver.findElement(By.name("bday"))).selectByVisibleText(contact.bDay);
+    new Select(driver.findElement(By.name("bmonth"))).selectByVisibleText(contact.bMonth);
+    driver.findElement(By.name("byear")).clear();
+    driver.findElement(By.name("byear")).sendKeys(contact.bYear);
+    driver.findElement(By.name("address2")).clear();
+    driver.findElement(By.name("address2")).sendKeys(contact.address2);
+    driver.findElement(By.name("phone2")).clear();
+    driver.findElement(By.name("phone2")).sendKeys(contact.phoneHome2);
+}
+
+private void initNewContactCreation() {
+    driver.findElement(By.linkText("add new")).click();
+}
+
+  @AfterClass
+  public void tearDown() throws Exception {
+    driver.quit();
+    String verificationErrorString = verificationErrors.toString();
+    if (!"".equals(verificationErrorString)) {
+      fail(verificationErrorString);
+    }
+  }
+
+  private boolean isElementPresent(By by) {
+    try {
+      driver.findElement(by);
+      return true;
+    } catch (NoSuchElementException e) {
+      return false;
+    }
+  }
+
+  private boolean isAlertPresent() {
+    try {
+      driver.switchTo().alert();
+      return true;
+    } catch (NoAlertPresentException e) {
+      return false;
+    }
+  }
+
+  private String closeAlertAndGetItsText() {
+    try {
+      Alert alert = driver.switchTo().alert();
+      String alertText = alert.getText();
+      if (acceptNextAlert) {
+        alert.accept();
+      } else {
+        alert.dismiss();
+      }
+      return alertText;
+    } finally {
+      acceptNextAlert = true;
+    }
+  }
+}

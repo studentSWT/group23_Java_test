@@ -425,3 +425,685 @@ java -ea -classpath /C:/Users/Светлана/Documents/Тренинги/Java �
   Class:     org.testng.remote.RemoteTestNG
   Args:      -serport 53221 -d C:\Users\Светлана\Documents\Тренинги\GitHub\group-23-test\addressbook-selenium-tests\test-output C:\Users\B215~1\AppData\Local\Temp\testng-eclipse--178911054\testng-customsuite.xml
 java -ea -classpath /C:/Users/Светлана/Documents/Тренинги/Java для тестировщиков/2_Среда разработки Eclipse/eclipse-java-luna-SR2-win32-x86_64/eclipse/plugins/org.testng.eclipse_6.8.6.20141201_2240/lib/testng.jar:C:\Users\Светлана\Documents\Тренинги\GitHub\group-23-test\addressbook-selenium-tests\bin:C:\Users\Светлана\Documents\Тренинги\Java для тестировщиков\3_Фреймворк Selenium\selenium-server-standalone-2.45.0.jar org.testng.remote.RemoteTestNG -serport 53221 -d C:\Users\Светлана\Documents\Тренинги\GitHub\group-23-test\addressbook-selenium-tests\test-output C:\Users\B215~1\AppData\Local\Temp\testng-eclipse--178911054\testng-customsuite.xml
+!SESSION 2015-04-27 08:39:41.469 -----------------------------------------------
+eclipse.buildId=4.4.2.M20150204-1700
+java.version=1.7.0_80
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ru_RU
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2015-04-27 08:41:29.949
+!MESSAGE Warning: EGit couldn't detect the installation path "gitPrefix" of native Git. Hence EGit can't respect system level
+Git settings which might be configured in ${gitPrefix}/etc/gitconfig under the native Git installation directory.
+The most important of these settings is core.autocrlf. Git for Windows by default sets this parameter to true in
+this system level configuration. The Git installation location can be configured on the
+Team > Git > Configuration preference page's 'System Settings' tab.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.egit.ui 2 0 2015-04-27 08:41:29.959
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Светлана'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2015-04-27 08:42:13.099 -----------------------------------------------
+eclipse.buildId=4.4.2.M20150204-1700
+java.version=1.7.0_80
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ru_RU
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2015-04-27 08:42:25.078
+!MESSAGE Warning: EGit couldn't detect the installation path "gitPrefix" of native Git. Hence EGit can't respect system level
+Git settings which might be configured in ${gitPrefix}/etc/gitconfig under the native Git installation directory.
+The most important of these settings is core.autocrlf. Git for Windows by default sets this parameter to true in
+this system level configuration. The Git installation location can be configured on the
+Team > Git > Configuration preference page's 'System Settings' tab.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.egit.ui 2 0 2015-04-27 08:42:25.080
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Светлана'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2015-04-27 08:47:45.694 -----------------------------------------------
+eclipse.buildId=4.4.2.M20150204-1700
+java.version=1.7.0_80
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ru_RU
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2015-04-27 08:47:58.366
+!MESSAGE Warning: EGit couldn't detect the installation path "gitPrefix" of native Git. Hence EGit can't respect system level
+Git settings which might be configured in ${gitPrefix}/etc/gitconfig under the native Git installation directory.
+The most important of these settings is core.autocrlf. Git for Windows by default sets this parameter to true in
+this system level configuration. The Git installation location can be configured on the
+Team > Git > Configuration preference page's 'System Settings' tab.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.egit.ui 2 0 2015-04-27 08:47:58.367
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Светлана'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2015-04-27 09:03:29.935 -----------------------------------------------
+eclipse.buildId=4.4.2.M20150204-1700
+java.version=1.7.0_80
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ru_RU
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2015-04-27 09:03:40.260
+!MESSAGE Warning: EGit couldn't detect the installation path "gitPrefix" of native Git. Hence EGit can't respect system level
+Git settings which might be configured in ${gitPrefix}/etc/gitconfig under the native Git installation directory.
+The most important of these settings is core.autocrlf. Git for Windows by default sets this parameter to true in
+this system level configuration. The Git installation location can be configured on the
+Team > Git > Configuration preference page's 'System Settings' tab.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.egit.ui 2 0 2015-04-27 09:03:40.260
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Светлана'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2015-04-27 09:05:06.404 -----------------------------------------------
+eclipse.buildId=4.4.2.M20150204-1700
+java.version=1.7.0_80
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ru_RU
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2015-04-27 09:05:17.876
+!MESSAGE Warning: EGit couldn't detect the installation path "gitPrefix" of native Git. Hence EGit can't respect system level
+Git settings which might be configured in ${gitPrefix}/etc/gitconfig under the native Git installation directory.
+The most important of these settings is core.autocrlf. Git for Windows by default sets this parameter to true in
+this system level configuration. The Git installation location can be configured on the
+Team > Git > Configuration preference page's 'System Settings' tab.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.egit.ui 2 0 2015-04-27 09:05:17.876
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Светлана'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2015-04-27 09:06:37.346 -----------------------------------------------
+eclipse.buildId=4.4.2.M20150204-1700
+java.version=1.7.0_80
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ru_RU
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2015-04-27 09:06:47.142
+!MESSAGE Warning: EGit couldn't detect the installation path "gitPrefix" of native Git. Hence EGit can't respect system level
+Git settings which might be configured in ${gitPrefix}/etc/gitconfig under the native Git installation directory.
+The most important of these settings is core.autocrlf. Git for Windows by default sets this parameter to true in
+this system level configuration. The Git installation location can be configured on the
+Team > Git > Configuration preference page's 'System Settings' tab.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.egit.ui 2 0 2015-04-27 09:06:47.142
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Светлана'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.testng.eclipse 1 0 2015-04-27 09:12:01.115
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:[Working copy] GroupCreationTests.java [in com.example.tests [in src [in addressbook-selenium-tests]]]
+  package com.example.tests
+  import org.testng.annotations.Test
+  class GroupCreationTests
+    void testNonEmptyGroupCreation()
+    void testEmptyGroupCreation()
+
+!ENTRY org.testng.eclipse 1 0 2015-04-27 09:12:01.615
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: /C:/Users/Светлана/Documents/Тренинги/Java для тестировщиков/2_Среда разработки Eclipse/eclipse-java-luna-SR2-win32-x86_64/eclipse/plugins/org.testng.eclipse_6.8.6.20141201_2240/lib/testng.jar C:\Users\Светлана\Documents\Тренинги\Java для тестировщиков\GITHUB\group23_Java_test\addressbook-selenium-tests\bin C:\Users\Светлана\Documents\Тренинги\Java для тестировщиков\3_Фреймворк Selenium\selenium-server-standalone-2.45.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 50045 -d C:\Users\Светлана\Documents\Тренинги\Java для тестировщиков\GITHUB\group23_Java_test\addressbook-selenium-tests\test-output C:\Users\B215~1\AppData\Local\Temp\testng-eclipse-2823289\testng-customsuite.xml
+java -ea -classpath /C:/Users/Светлана/Documents/Тренинги/Java для тестировщиков/2_Среда разработки Eclipse/eclipse-java-luna-SR2-win32-x86_64/eclipse/plugins/org.testng.eclipse_6.8.6.20141201_2240/lib/testng.jar:C:\Users\Светлана\Documents\Тренинги\Java для тестировщиков\GITHUB\group23_Java_test\addressbook-selenium-tests\bin:C:\Users\Светлана\Documents\Тренинги\Java для тестировщиков\3_Фреймворк Selenium\selenium-server-standalone-2.45.0.jar org.testng.remote.RemoteTestNG -serport 50045 -d C:\Users\Светлана\Documents\Тренинги\Java для тестировщиков\GITHUB\group23_Java_test\addressbook-selenium-tests\test-output C:\Users\B215~1\AppData\Local\Temp\testng-eclipse-2823289\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2015-04-27 09:17:15.222
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:[Working copy] GroupCreationTests.java [in com.example.tests [in src [in addressbook-selenium-tests]]]
+  package com.example.tests
+  import org.testng.annotations.Test
+  class GroupCreationTests
+    void testNonEmptyGroupCreation()
+    void testEmptyGroupCreation()
+
+!ENTRY org.testng.eclipse 1 0 2015-04-27 09:17:15.272
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: /C:/Users/Светлана/Documents/Тренинги/Java для тестировщиков/2_Среда разработки Eclipse/eclipse-java-luna-SR2-win32-x86_64/eclipse/plugins/org.testng.eclipse_6.8.6.20141201_2240/lib/testng.jar C:\Users\Светлана\Documents\Тренинги\Java для тестировщиков\GITHUB\group23_Java_test\addressbook-selenium-tests\bin C:\Users\Светлана\Documents\Тренинги\Java для тестировщиков\3_Фреймворк Selenium\selenium-server-standalone-2.45.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 50411 -d C:\Users\Светлана\Documents\Тренинги\Java для тестировщиков\GITHUB\group23_Java_test\addressbook-selenium-tests\test-output C:\Users\B215~1\AppData\Local\Temp\testng-eclipse--2082255239\testng-customsuite.xml
+java -ea -classpath /C:/Users/Светлана/Documents/Тренинги/Java для тестировщиков/2_Среда разработки Eclipse/eclipse-java-luna-SR2-win32-x86_64/eclipse/plugins/org.testng.eclipse_6.8.6.20141201_2240/lib/testng.jar:C:\Users\Светлана\Documents\Тренинги\Java для тестировщиков\GITHUB\group23_Java_test\addressbook-selenium-tests\bin:C:\Users\Светлана\Documents\Тренинги\Java для тестировщиков\3_Фреймворк Selenium\selenium-server-standalone-2.45.0.jar org.testng.remote.RemoteTestNG -serport 50411 -d C:\Users\Светлана\Documents\Тренинги\Java для тестировщиков\GITHUB\group23_Java_test\addressbook-selenium-tests\test-output C:\Users\B215~1\AppData\Local\Temp\testng-eclipse--2082255239\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2015-04-27 09:18:01.662
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:[Working copy] ContactCreationTests.java [in com.example.tests [in src [in addressbook-selenium-tests]]]
+  package com.example.tests
+  import java.util.regex.Pattern
+  import java.util.concurrent.TimeUnit
+  import org.junit.*
+  import org.junit.Assert.*
+  import org.hamcrest.CoreMatchers.*
+  import org.openqa.selenium.*
+  import org.openqa.selenium.firefox.FirefoxDriver
+  import org.openqa.selenium.support.ui.Select
+  class ContactCreationTests
+    WebDriver driver
+    String baseUrl
+    boolean acceptNextAlert
+    StringBuffer verificationErrors
+    void setUp()
+    void testUntitled()
+    void tearDown()
+    boolean isElementPresent(By)
+    boolean isAlertPresent()
+    String closeAlertAndGetItsText()
+
+!ENTRY org.testng.eclipse 1 0 2015-04-27 09:18:01.732
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: /C:/Users/Светлана/Documents/Тренинги/Java для тестировщиков/2_Среда разработки Eclipse/eclipse-java-luna-SR2-win32-x86_64/eclipse/plugins/org.testng.eclipse_6.8.6.20141201_2240/lib/testng.jar C:\Users\Светлана\Documents\Тренинги\Java для тестировщиков\GITHUB\group23_Java_test\addressbook-selenium-tests\bin C:\Users\Светлана\Documents\Тренинги\Java для тестировщиков\3_Фреймворк Selenium\selenium-server-standalone-2.45.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 50494 -d C:\Users\Светлана\Documents\Тренинги\Java для тестировщиков\GITHUB\group23_Java_test\addressbook-selenium-tests\test-output C:\Users\B215~1\AppData\Local\Temp\testng-eclipse-660881825\testng-customsuite.xml
+java -ea -classpath /C:/Users/Светлана/Documents/Тренинги/Java для тестировщиков/2_Среда разработки Eclipse/eclipse-java-luna-SR2-win32-x86_64/eclipse/plugins/org.testng.eclipse_6.8.6.20141201_2240/lib/testng.jar:C:\Users\Светлана\Documents\Тренинги\Java для тестировщиков\GITHUB\group23_Java_test\addressbook-selenium-tests\bin:C:\Users\Светлана\Documents\Тренинги\Java для тестировщиков\3_Фреймворк Selenium\selenium-server-standalone-2.45.0.jar org.testng.remote.RemoteTestNG -serport 50494 -d C:\Users\Светлана\Documents\Тренинги\Java для тестировщиков\GITHUB\group23_Java_test\addressbook-selenium-tests\test-output C:\Users\B215~1\AppData\Local\Temp\testng-eclipse-660881825\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2015-04-27 09:18:56.287
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:[Working copy] ContactCreationTests.java [in com.example.tests [in src [in addressbook-selenium-tests]]]
+  package com.example.tests
+  import java.util.regex.Pattern
+  import java.util.concurrent.TimeUnit
+  import org.junit.*
+  import org.junit.Assert.*
+  import org.hamcrest.CoreMatchers.*
+  import org.openqa.selenium.*
+  import org.openqa.selenium.firefox.FirefoxDriver
+  import org.openqa.selenium.support.ui.Select
+  class ContactCreationTests
+    WebDriver driver
+    String baseUrl
+    boolean acceptNextAlert
+    StringBuffer verificationErrors
+    void setUp()
+    void testUntitled()
+    void tearDown()
+    boolean isElementPresent(By)
+    boolean isAlertPresent()
+    String closeAlertAndGetItsText()
+
+!ENTRY org.testng.eclipse 1 0 2015-04-27 09:18:56.347
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: /C:/Users/Светлана/Documents/Тренинги/Java для тестировщиков/2_Среда разработки Eclipse/eclipse-java-luna-SR2-win32-x86_64/eclipse/plugins/org.testng.eclipse_6.8.6.20141201_2240/lib/testng.jar C:\Users\Светлана\Documents\Тренинги\Java для тестировщиков\GITHUB\group23_Java_test\addressbook-selenium-tests\bin C:\Users\Светлана\Documents\Тренинги\Java для тестировщиков\3_Фреймворк Selenium\selenium-server-standalone-2.45.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 50510 -d C:\Users\Светлана\Documents\Тренинги\Java для тестировщиков\GITHUB\group23_Java_test\addressbook-selenium-tests\test-output C:\Users\B215~1\AppData\Local\Temp\testng-eclipse-1447601381\testng-customsuite.xml
+java -ea -classpath /C:/Users/Светлана/Documents/Тренинги/Java для тестировщиков/2_Среда разработки Eclipse/eclipse-java-luna-SR2-win32-x86_64/eclipse/plugins/org.testng.eclipse_6.8.6.20141201_2240/lib/testng.jar:C:\Users\Светлана\Documents\Тренинги\Java для тестировщиков\GITHUB\group23_Java_test\addressbook-selenium-tests\bin:C:\Users\Светлана\Documents\Тренинги\Java для тестировщиков\3_Фреймворк Selenium\selenium-server-standalone-2.45.0.jar org.testng.remote.RemoteTestNG -serport 50510 -d C:\Users\Светлана\Documents\Тренинги\Java для тестировщиков\GITHUB\group23_Java_test\addressbook-selenium-tests\test-output C:\Users\B215~1\AppData\Local\Temp\testng-eclipse-1447601381\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2015-04-27 11:45:52.935
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:[Working copy] ContactCreationTests.java [in com.example.tests [in src [in addressbook-selenium-tests]]]
+  package com.example.tests
+  import java.util.regex.Pattern
+  import java.util.concurrent.TimeUnit
+  import org.junit.Assert.*
+  import org.hamcrest.CoreMatchers.*
+  import org.openqa.selenium.*
+  import org.openqa.selenium.firefox.FirefoxDriver
+  import org.openqa.selenium.support.ui.Select
+  import org.testng.annotations.AfterClass
+  import org.testng.annotations.BeforeClass
+  import org.testng.annotations.Test
+  class ContactCreationTests
+    WebDriver driver
+    String baseUrl
+    boolean acceptNextAlert
+    StringBuffer verificationErrors
+    void setUp()
+    void testNonEmptyContactCreation()
+    void testDEmptyContactCreation()
+    void testEmptyContactCreation()
+    void gotoHomePage()
+    void submitContactCreation()
+    void fillContactForm(ContactData)
+    void initNewContactCreation()
+    void tearDown()
+    boolean isElementPresent(By)
+    boolean isAlertPresent()
+    String closeAlertAndGetItsText()
+
+!ENTRY org.testng.eclipse 1 0 2015-04-27 11:45:52.975
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: /C:/Users/Светлана/Documents/Тренинги/Java для тестировщиков/2_Среда разработки Eclipse/eclipse-java-luna-SR2-win32-x86_64/eclipse/plugins/org.testng.eclipse_6.8.6.20141201_2240/lib/testng.jar C:\Users\Светлана\Documents\Тренинги\Java для тестировщиков\GITHUB\group23_Java_test\addressbook-selenium-tests\bin C:\Users\Светлана\Documents\Тренинги\Java для тестировщиков\3_Фреймворк Selenium\selenium-server-standalone-2.45.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 52655 -d C:\Users\Светлана\Documents\Тренинги\Java для тестировщиков\GITHUB\group23_Java_test\addressbook-selenium-tests\test-output C:\Users\B215~1\AppData\Local\Temp\testng-eclipse--1881989730\testng-customsuite.xml
+java -ea -classpath /C:/Users/Светлана/Documents/Тренинги/Java для тестировщиков/2_Среда разработки Eclipse/eclipse-java-luna-SR2-win32-x86_64/eclipse/plugins/org.testng.eclipse_6.8.6.20141201_2240/lib/testng.jar:C:\Users\Светлана\Documents\Тренинги\Java для тестировщиков\GITHUB\group23_Java_test\addressbook-selenium-tests\bin:C:\Users\Светлана\Documents\Тренинги\Java для тестировщиков\3_Фреймворк Selenium\selenium-server-standalone-2.45.0.jar org.testng.remote.RemoteTestNG -serport 52655 -d C:\Users\Светлана\Documents\Тренинги\Java для тестировщиков\GITHUB\group23_Java_test\addressbook-selenium-tests\test-output C:\Users\B215~1\AppData\Local\Temp\testng-eclipse--1881989730\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2015-04-27 12:09:45.746
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:[Working copy] ContactCreationTests.java [in com.example.tests [in src [in addressbook-selenium-tests]]]
+  package com.example.tests
+  import org.testng.annotations.Test
+  class ContactCreationTests
+    void testNonEmptyContactCreation()
+    void testDEmptyContactCreation()
+    void testEmptyContactCreation()
+
+!ENTRY org.testng.eclipse 1 0 2015-04-27 12:09:45.806
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: /C:/Users/Светлана/Documents/Тренинги/Java для тестировщиков/2_Среда разработки Eclipse/eclipse-java-luna-SR2-win32-x86_64/eclipse/plugins/org.testng.eclipse_6.8.6.20141201_2240/lib/testng.jar C:\Users\Светлана\Documents\Тренинги\Java для тестировщиков\GITHUB\group23_Java_test\addressbook-selenium-tests\bin C:\Users\Светлана\Documents\Тренинги\Java для тестировщиков\3_Фреймворк Selenium\selenium-server-standalone-2.45.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 52872 -d C:\Users\Светлана\Documents\Тренинги\Java для тестировщиков\GITHUB\group23_Java_test\addressbook-selenium-tests\test-output C:\Users\B215~1\AppData\Local\Temp\testng-eclipse--1527950699\testng-customsuite.xml
+java -ea -classpath /C:/Users/Светлана/Documents/Тренинги/Java для тестировщиков/2_Среда разработки Eclipse/eclipse-java-luna-SR2-win32-x86_64/eclipse/plugins/org.testng.eclipse_6.8.6.20141201_2240/lib/testng.jar:C:\Users\Светлана\Documents\Тренинги\Java для тестировщиков\GITHUB\group23_Java_test\addressbook-selenium-tests\bin:C:\Users\Светлана\Documents\Тренинги\Java для тестировщиков\3_Фреймворк Selenium\selenium-server-standalone-2.45.0.jar org.testng.remote.RemoteTestNG -serport 52872 -d C:\Users\Светлана\Documents\Тренинги\Java для тестировщиков\GITHUB\group23_Java_test\addressbook-selenium-tests\test-output C:\Users\B215~1\AppData\Local\Temp\testng-eclipse--1527950699\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2015-04-27 12:12:06.487
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:[Working copy] ContactCreationTests.java [in com.example.tests [in src [in addressbook-selenium-tests]]]
+  package com.example.tests
+  import org.testng.annotations.Test
+  class ContactCreationTests
+    void testNonEmptyContactCreation()
+    void testDEmptyContactCreation()
+    void testEmptyContactCreation()
+
+!ENTRY org.testng.eclipse 1 0 2015-04-27 12:12:06.537
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: /C:/Users/Светлана/Documents/Тренинги/Java для тестировщиков/2_Среда разработки Eclipse/eclipse-java-luna-SR2-win32-x86_64/eclipse/plugins/org.testng.eclipse_6.8.6.20141201_2240/lib/testng.jar C:\Users\Светлана\Documents\Тренинги\Java для тестировщиков\GITHUB\group23_Java_test\addressbook-selenium-tests\bin C:\Users\Светлана\Documents\Тренинги\Java для тестировщиков\3_Фреймворк Selenium\selenium-server-standalone-2.45.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 52894 -d C:\Users\Светлана\Documents\Тренинги\Java для тестировщиков\GITHUB\group23_Java_test\addressbook-selenium-tests\test-output C:\Users\B215~1\AppData\Local\Temp\testng-eclipse--340448672\testng-customsuite.xml
+java -ea -classpath /C:/Users/Светлана/Documents/Тренинги/Java для тестировщиков/2_Среда разработки Eclipse/eclipse-java-luna-SR2-win32-x86_64/eclipse/plugins/org.testng.eclipse_6.8.6.20141201_2240/lib/testng.jar:C:\Users\Светлана\Documents\Тренинги\Java для тестировщиков\GITHUB\group23_Java_test\addressbook-selenium-tests\bin:C:\Users\Светлана\Documents\Тренинги\Java для тестировщиков\3_Фреймворк Selenium\selenium-server-standalone-2.45.0.jar org.testng.remote.RemoteTestNG -serport 52894 -d C:\Users\Светлана\Documents\Тренинги\Java для тестировщиков\GITHUB\group23_Java_test\addressbook-selenium-tests\test-output C:\Users\B215~1\AppData\Local\Temp\testng-eclipse--340448672\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2015-04-27 12:15:31.348
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:[Working copy] ContactCreationTests.java [in com.example.tests [in src [in addressbook-selenium-tests]]]
+  package com.example.tests
+  import org.testng.annotations.Test
+  class ContactCreationTests
+    void testNonEmptyContactCreation()
+    void testDEmptyContactCreation()
+    void testEmptyContactCreation()
+
+!ENTRY org.testng.eclipse 1 0 2015-04-27 12:15:31.398
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: /C:/Users/Светлана/Documents/Тренинги/Java для тестировщиков/2_Среда разработки Eclipse/eclipse-java-luna-SR2-win32-x86_64/eclipse/plugins/org.testng.eclipse_6.8.6.20141201_2240/lib/testng.jar C:\Users\Светлана\Documents\Тренинги\Java для тестировщиков\GITHUB\group23_Java_test\addressbook-selenium-tests\bin C:\Users\Светлана\Documents\Тренинги\Java для тестировщиков\3_Фреймворк Selenium\selenium-server-standalone-2.45.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 53094 -d C:\Users\Светлана\Documents\Тренинги\Java для тестировщиков\GITHUB\group23_Java_test\addressbook-selenium-tests\test-output C:\Users\B215~1\AppData\Local\Temp\testng-eclipse--739743054\testng-customsuite.xml
+java -ea -classpath /C:/Users/Светлана/Documents/Тренинги/Java для тестировщиков/2_Среда разработки Eclipse/eclipse-java-luna-SR2-win32-x86_64/eclipse/plugins/org.testng.eclipse_6.8.6.20141201_2240/lib/testng.jar:C:\Users\Светлана\Documents\Тренинги\Java для тестировщиков\GITHUB\group23_Java_test\addressbook-selenium-tests\bin:C:\Users\Светлана\Documents\Тренинги\Java для тестировщиков\3_Фреймворк Selenium\selenium-server-standalone-2.45.0.jar org.testng.remote.RemoteTestNG -serport 53094 -d C:\Users\Светлана\Documents\Тренинги\Java для тестировщиков\GITHUB\group23_Java_test\addressbook-selenium-tests\test-output C:\Users\B215~1\AppData\Local\Temp\testng-eclipse--739743054\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2015-04-27 12:17:24.800
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:[Working copy] ContactCreationTests.java [in com.example.tests [in src [in addressbook-selenium-tests]]]
+  package com.example.tests
+  import org.testng.annotations.Test
+  class ContactCreationTests
+    void testNonEmptyContactCreation()
+    void testDEmptyContactCreation()
+    void testEmptyContactCreation()
+
+!ENTRY org.testng.eclipse 1 0 2015-04-27 12:17:24.850
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: /C:/Users/Светлана/Documents/Тренинги/Java для тестировщиков/2_Среда разработки Eclipse/eclipse-java-luna-SR2-win32-x86_64/eclipse/plugins/org.testng.eclipse_6.8.6.20141201_2240/lib/testng.jar C:\Users\Светлана\Documents\Тренинги\Java для тестировщиков\GITHUB\group23_Java_test\addressbook-selenium-tests\bin C:\Users\Светлана\Documents\Тренинги\Java для тестировщиков\3_Фреймворк Selenium\selenium-server-standalone-2.45.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 53302 -d C:\Users\Светлана\Documents\Тренинги\Java для тестировщиков\GITHUB\group23_Java_test\addressbook-selenium-tests\test-output C:\Users\B215~1\AppData\Local\Temp\testng-eclipse--731862541\testng-customsuite.xml
+java -ea -classpath /C:/Users/Светлана/Documents/Тренинги/Java для тестировщиков/2_Среда разработки Eclipse/eclipse-java-luna-SR2-win32-x86_64/eclipse/plugins/org.testng.eclipse_6.8.6.20141201_2240/lib/testng.jar:C:\Users\Светлана\Documents\Тренинги\Java для тестировщиков\GITHUB\group23_Java_test\addressbook-selenium-tests\bin:C:\Users\Светлана\Documents\Тренинги\Java для тестировщиков\3_Фреймворк Selenium\selenium-server-standalone-2.45.0.jar org.testng.remote.RemoteTestNG -serport 53302 -d C:\Users\Светлана\Documents\Тренинги\Java для тестировщиков\GITHUB\group23_Java_test\addressbook-selenium-tests\test-output C:\Users\B215~1\AppData\Local\Temp\testng-eclipse--731862541\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2015-04-27 12:25:54.438
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:[Working copy] ContactCreationTests.java [in com.example.tests [in src [in addressbook-selenium-tests]]]
+  package com.example.tests
+  import org.testng.annotations.Test
+  class ContactCreationTests
+    void testNonEmptyContactCreation()
+    void testEmptyDateNonEmptyContactCreation()
+    void testEmptyContactCreation()
+
+!ENTRY org.testng.eclipse 1 0 2015-04-27 12:25:54.488
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: /C:/Users/Светлана/Documents/Тренинги/Java для тестировщиков/2_Среда разработки Eclipse/eclipse-java-luna-SR2-win32-x86_64/eclipse/plugins/org.testng.eclipse_6.8.6.20141201_2240/lib/testng.jar C:\Users\Светлана\Documents\Тренинги\Java для тестировщиков\GITHUB\group23_Java_test\addressbook-selenium-tests\bin C:\Users\Светлана\Documents\Тренинги\Java для тестировщиков\3_Фреймворк Selenium\selenium-server-standalone-2.45.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 53508 -d C:\Users\Светлана\Documents\Тренинги\Java для тестировщиков\GITHUB\group23_Java_test\addressbook-selenium-tests\test-output C:\Users\B215~1\AppData\Local\Temp\testng-eclipse-1554447884\testng-customsuite.xml
+java -ea -classpath /C:/Users/Светлана/Documents/Тренинги/Java для тестировщиков/2_Среда разработки Eclipse/eclipse-java-luna-SR2-win32-x86_64/eclipse/plugins/org.testng.eclipse_6.8.6.20141201_2240/lib/testng.jar:C:\Users\Светлана\Documents\Тренинги\Java для тестировщиков\GITHUB\group23_Java_test\addressbook-selenium-tests\bin:C:\Users\Светлана\Documents\Тренинги\Java для тестировщиков\3_Фреймворк Selenium\selenium-server-standalone-2.45.0.jar org.testng.remote.RemoteTestNG -serport 53508 -d C:\Users\Светлана\Documents\Тренинги\Java для тестировщиков\GITHUB\group23_Java_test\addressbook-selenium-tests\test-output C:\Users\B215~1\AppData\Local\Temp\testng-eclipse-1554447884\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2015-04-27 12:29:09.408
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:[Working copy] ContactCreationTests.java [in com.example.tests [in src [in addressbook-selenium-tests]]]
+  package com.example.tests
+  import org.testng.annotations.Test
+  class ContactCreationTests
+    void testNonEmptyContactCreation()
+    void testEmptyDateNonEmptyContactCreation()
+    void testEmptyDateNonEmptyYearContactCreation()
+    void testEmptyContactCreation()
+
+!ENTRY org.testng.eclipse 1 0 2015-04-27 12:29:09.458
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: /C:/Users/Светлана/Documents/Тренинги/Java для тестировщиков/2_Среда разработки Eclipse/eclipse-java-luna-SR2-win32-x86_64/eclipse/plugins/org.testng.eclipse_6.8.6.20141201_2240/lib/testng.jar C:\Users\Светлана\Documents\Тренинги\Java для тестировщиков\GITHUB\group23_Java_test\addressbook-selenium-tests\bin C:\Users\Светлана\Documents\Тренинги\Java для тестировщиков\3_Фреймворк Selenium\selenium-server-standalone-2.45.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 53689 -d C:\Users\Светлана\Documents\Тренинги\Java для тестировщиков\GITHUB\group23_Java_test\addressbook-selenium-tests\test-output C:\Users\B215~1\AppData\Local\Temp\testng-eclipse--1008689637\testng-customsuite.xml
+java -ea -classpath /C:/Users/Светлана/Documents/Тренинги/Java для тестировщиков/2_Среда разработки Eclipse/eclipse-java-luna-SR2-win32-x86_64/eclipse/plugins/org.testng.eclipse_6.8.6.20141201_2240/lib/testng.jar:C:\Users\Светлана\Documents\Тренинги\Java для тестировщиков\GITHUB\group23_Java_test\addressbook-selenium-tests\bin:C:\Users\Светлана\Documents\Тренинги\Java для тестировщиков\3_Фреймворк Selenium\selenium-server-standalone-2.45.0.jar org.testng.remote.RemoteTestNG -serport 53689 -d C:\Users\Светлана\Documents\Тренинги\Java для тестировщиков\GITHUB\group23_Java_test\addressbook-selenium-tests\test-output C:\Users\B215~1\AppData\Local\Temp\testng-eclipse--1008689637\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2015-04-27 12:33:31.483
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:null
+
+!ENTRY org.testng.eclipse 1 0 2015-04-27 12:33:31.533
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: /C:/Users/Светлана/Documents/Тренинги/Java для тестировщиков/2_Среда разработки Eclipse/eclipse-java-luna-SR2-win32-x86_64/eclipse/plugins/org.testng.eclipse_6.8.6.20141201_2240/lib/testng.jar C:\Users\Светлана\Documents\Тренинги\Java для тестировщиков\GITHUB\group23_Java_test\addressbook-selenium-tests\bin C:\Users\Светлана\Documents\Тренинги\Java для тестировщиков\3_Фреймворк Selenium\selenium-server-standalone-2.45.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 53918 -d C:\Users\Светлана\Documents\Тренинги\Java для тестировщиков\GITHUB\group23_Java_test\addressbook-selenium-tests\test-output C:\Users\B215~1\AppData\Local\Temp\testng-eclipse-1223606513\testng-customsuite.xml
+java -ea -classpath /C:/Users/Светлана/Documents/Тренинги/Java для тестировщиков/2_Среда разработки Eclipse/eclipse-java-luna-SR2-win32-x86_64/eclipse/plugins/org.testng.eclipse_6.8.6.20141201_2240/lib/testng.jar:C:\Users\Светлана\Documents\Тренинги\Java для тестировщиков\GITHUB\group23_Java_test\addressbook-selenium-tests\bin:C:\Users\Светлана\Documents\Тренинги\Java для тестировщиков\3_Фреймворк Selenium\selenium-server-standalone-2.45.0.jar org.testng.remote.RemoteTestNG -serport 53918 -d C:\Users\Светлана\Documents\Тренинги\Java для тестировщиков\GITHUB\group23_Java_test\addressbook-selenium-tests\test-output C:\Users\B215~1\AppData\Local\Temp\testng-eclipse-1223606513\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2015-04-27 12:45:32.305
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:com.example.tests [in src [in addressbook-selenium-tests]]
+  [Working copy] ContactCreationTests.java
+    package com.example.tests
+    import org.testng.annotations.Test
+    class ContactCreationTests
+      void testNonEmptyContactCreation()
+      void testEmptyDateNonEmptyContactCreation()
+      void testEmptyContactCreation()
+  [Working copy] GroupCreationTests.java
+    package com.example.tests
+    import org.testng.annotations.Test
+    class GroupCreationTests
+      void testNonEmptyGroupCreation()
+      void testEmptyGroupCreation()
+  [Working copy] GroupData.java
+    package com.example.tests
+    class GroupData
+      String name
+      String header
+      String footer
+      GroupData()
+      GroupData(String, String, String)
+  [Working copy] AlsoGroupCreationTests.java
+    package com.example.tests
+    import org.testng.annotations.Test
+    class AlsoGroupCreationTests
+      void testNonEmptyGroupCreation()
+      void testEmptyGroupCreation()
+  [Working copy] TestBase.java
+    package com.example.tests
+    import org.junit.Assert.fail
+    import java.util.concurrent.TimeUnit
+    import org.openqa.selenium.Alert
+    import org.openqa.selenium.By
+    import org.openqa.selenium.NoAlertPresentException
+    import org.openqa.selenium.NoSuchElementException
+    import org.openqa.selenium.WebDriver
+    import org.openqa.selenium.firefox.FirefoxDriver
+    import org.openqa.selenium.support.ui.Select
+    import org.testng.annotations.AfterTest
+    import org.testng.annotations.BeforeTest
+    class TestBase
+      WebDriver driver
+      String baseUrl
+      boolean acceptNextAlert
+      StringBuffer verificationErrors
+      void setUp()
+      void tearDown()
+      void returnToGroupsPage()
+      void submitGroupCreation()
+      void fillGroupForm(GroupData)
+      void initNewGroupCreation()
+      void gotoGroupsPage()
+      void openMainPage()
+      boolean isElementPresent(By)
+      boolean isAlertPresent()
+      String closeAlertAndGetItsText()
+      void gotoHomePage()
+      void submitContactCreation()
+      void fillContactForm(ContactData)
+      void initNewContactCreation()
+  [Working copy] ContactData.java
+    package com.example.tests
+    class ContactData
+      String firstName
+      String lastName
+      String address1
+      String phoneHome
+      String phoneMobile
+      String phoneWork
+      String email1
+      String email2
+      String bYear
+      String bDay
+      String bMonth
+      String address2
+      String phoneHome2
+      ContactData()
+      ContactData(String, String, String, String, String, String, String, String, String, String, String, String, String)
+
+!ENTRY org.testng.eclipse 1 0 2015-04-27 12:45:32.335
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: /C:/Users/Светлана/Documents/Тренинги/Java для тестировщиков/2_Среда разработки Eclipse/eclipse-java-luna-SR2-win32-x86_64/eclipse/plugins/org.testng.eclipse_6.8.6.20141201_2240/lib/testng.jar C:\Users\Светлана\Documents\Тренинги\Java для тестировщиков\GITHUB\group23_Java_test\addressbook-selenium-tests\bin C:\Users\Светлана\Documents\Тренинги\Java для тестировщиков\3_Фреймворк Selenium\selenium-server-standalone-2.45.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 53984 -d C:\Users\Светлана\Documents\Тренинги\Java для тестировщиков\GITHUB\group23_Java_test\addressbook-selenium-tests\test-output C:\Users\B215~1\AppData\Local\Temp\testng-eclipse-759797433\testng-customsuite.xml
+java -ea -classpath /C:/Users/Светлана/Documents/Тренинги/Java для тестировщиков/2_Среда разработки Eclipse/eclipse-java-luna-SR2-win32-x86_64/eclipse/plugins/org.testng.eclipse_6.8.6.20141201_2240/lib/testng.jar:C:\Users\Светлана\Documents\Тренинги\Java для тестировщиков\GITHUB\group23_Java_test\addressbook-selenium-tests\bin:C:\Users\Светлана\Documents\Тренинги\Java для тестировщиков\3_Фреймворк Selenium\selenium-server-standalone-2.45.0.jar org.testng.remote.RemoteTestNG -serport 53984 -d C:\Users\Светлана\Documents\Тренинги\Java для тестировщиков\GITHUB\group23_Java_test\addressbook-selenium-tests\test-output C:\Users\B215~1\AppData\Local\Temp\testng-eclipse-759797433\testng-customsuite.xml
+!SESSION 2015-04-27 12:53:32.434 -----------------------------------------------
+eclipse.buildId=4.4.2.M20150204-1700
+java.version=1.7.0_80
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ru_RU
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2015-04-27 12:53:51.898
+!MESSAGE Warning: EGit couldn't detect the installation path "gitPrefix" of native Git. Hence EGit can't respect system level
+Git settings which might be configured in ${gitPrefix}/etc/gitconfig under the native Git installation directory.
+The most important of these settings is core.autocrlf. Git for Windows by default sets this parameter to true in
+this system level configuration. The Git installation location can be configured on the
+Team > Git > Configuration preference page's 'System Settings' tab.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.egit.ui 2 0 2015-04-27 12:53:51.930
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Светлана'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.testng.eclipse 1 0 2015-04-27 12:54:07.747
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:[Working copy] ContactCreationTests.java [in com.example.tests [in src [in addressbook-selenium-tests]]]
+  package com.example.tests
+  import org.testng.annotations.Test
+  class ContactCreationTests
+    void testNonEmptyContactCreation()
+    void testEmptyDateNonEmptyContactCreation()
+    void testEmptyContactCreation()
+
+!ENTRY org.testng.eclipse 1 0 2015-04-27 12:54:08.264
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: /C:/Users/Светлана/Documents/Тренинги/Java для тестировщиков/2_Среда разработки Eclipse/eclipse-java-luna-SR2-win32-x86_64/eclipse/plugins/org.testng.eclipse_6.8.6.20141201_2240/lib/testng.jar C:\Users\Светлана\Documents\Тренинги\Java для тестировщиков\GITHUB\group23_Java_test\addressbook-selenium-tests\bin C:\Users\Светлана\Documents\Тренинги\Java для тестировщиков\3_Фреймворк Selenium\selenium-server-standalone-2.45.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 54401 -d C:\Users\Светлана\Documents\Тренинги\Java для тестировщиков\GITHUB\group23_Java_test\addressbook-selenium-tests\test-output C:\Users\B215~1\AppData\Local\Temp\testng-eclipse--363733941\testng-customsuite.xml
+java -ea -classpath /C:/Users/Светлана/Documents/Тренинги/Java для тестировщиков/2_Среда разработки Eclipse/eclipse-java-luna-SR2-win32-x86_64/eclipse/plugins/org.testng.eclipse_6.8.6.20141201_2240/lib/testng.jar:C:\Users\Светлана\Documents\Тренинги\Java для тестировщиков\GITHUB\group23_Java_test\addressbook-selenium-tests\bin:C:\Users\Светлана\Documents\Тренинги\Java для тестировщиков\3_Фреймворк Selenium\selenium-server-standalone-2.45.0.jar org.testng.remote.RemoteTestNG -serport 54401 -d C:\Users\Светлана\Documents\Тренинги\Java для тестировщиков\GITHUB\group23_Java_test\addressbook-selenium-tests\test-output C:\Users\B215~1\AppData\Local\Temp\testng-eclipse--363733941\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2015-04-27 12:55:55.299
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:GroupCreationTests.java [in com.example.tests [in src [in addressbook-selenium-tests]]]
+  package com.example.tests
+  import org.testng.annotations.Test
+  class GroupCreationTests
+    void testNonEmptyGroupCreation()
+    void testEmptyGroupCreation()
+
+!ENTRY org.testng.eclipse 1 0 2015-04-27 12:55:55.393
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: /C:/Users/Светлана/Documents/Тренинги/Java для тестировщиков/2_Среда разработки Eclipse/eclipse-java-luna-SR2-win32-x86_64/eclipse/plugins/org.testng.eclipse_6.8.6.20141201_2240/lib/testng.jar C:\Users\Светлана\Documents\Тренинги\Java для тестировщиков\GITHUB\group23_Java_test\addressbook-selenium-tests\bin C:\Users\Светлана\Documents\Тренинги\Java для тестировщиков\3_Фреймворк Selenium\selenium-server-standalone-2.45.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 54611 -d C:\Users\Светлана\Documents\Тренинги\Java для тестировщиков\GITHUB\group23_Java_test\addressbook-selenium-tests\test-output C:\Users\B215~1\AppData\Local\Temp\testng-eclipse-443438603\testng-customsuite.xml
+java -ea -classpath /C:/Users/Светлана/Documents/Тренинги/Java для тестировщиков/2_Среда разработки Eclipse/eclipse-java-luna-SR2-win32-x86_64/eclipse/plugins/org.testng.eclipse_6.8.6.20141201_2240/lib/testng.jar:C:\Users\Светлана\Documents\Тренинги\Java для тестировщиков\GITHUB\group23_Java_test\addressbook-selenium-tests\bin:C:\Users\Светлана\Documents\Тренинги\Java для тестировщиков\3_Фреймворк Selenium\selenium-server-standalone-2.45.0.jar org.testng.remote.RemoteTestNG -serport 54611 -d C:\Users\Светлана\Documents\Тренинги\Java для тестировщиков\GITHUB\group23_Java_test\addressbook-selenium-tests\test-output C:\Users\B215~1\AppData\Local\Temp\testng-eclipse-443438603\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2015-04-27 13:07:14.293
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:null
+
+!ENTRY org.testng.eclipse 1 0 2015-04-27 13:07:30.363
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:null
+
+!ENTRY org.testng.eclipse 1 0 2015-04-27 13:07:30.395
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: /C:/Users/Светлана/Documents/Тренинги/Java для тестировщиков/2_Среда разработки Eclipse/eclipse-java-luna-SR2-win32-x86_64/eclipse/plugins/org.testng.eclipse_6.8.6.20141201_2240/lib/testng.jar C:\Users\Светлана\Documents\Тренинги\Java для тестировщиков\GITHUB\group23_Java_test\addressbook-selenium-tests\bin C:\Users\Светлана\Documents\Тренинги\Java для тестировщиков\3_Фреймворк Selenium\selenium-server-standalone-2.45.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 54752 -d C:\Users\Светлана\Documents\Тренинги\Java для тестировщиков\GITHUB\group23_Java_test\addressbook-selenium-tests\test-output C:\Users\B215~1\AppData\Local\Temp\testng-eclipse--424762876\testng-customsuite.xml
+java -ea -classpath /C:/Users/Светлана/Documents/Тренинги/Java для тестировщиков/2_Среда разработки Eclipse/eclipse-java-luna-SR2-win32-x86_64/eclipse/plugins/org.testng.eclipse_6.8.6.20141201_2240/lib/testng.jar:C:\Users\Светлана\Documents\Тренинги\Java для тестировщиков\GITHUB\group23_Java_test\addressbook-selenium-tests\bin:C:\Users\Светлана\Documents\Тренинги\Java для тестировщиков\3_Фреймворк Selenium\selenium-server-standalone-2.45.0.jar org.testng.remote.RemoteTestNG -serport 54752 -d C:\Users\Светлана\Documents\Тренинги\Java для тестировщиков\GITHUB\group23_Java_test\addressbook-selenium-tests\test-output C:\Users\B215~1\AppData\Local\Temp\testng-eclipse--424762876\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2015-04-27 13:08:43.152
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:null
+
+!ENTRY org.testng.eclipse 1 0 2015-04-27 13:08:43.199
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: /C:/Users/Светлана/Documents/Тренинги/Java для тестировщиков/2_Среда разработки Eclipse/eclipse-java-luna-SR2-win32-x86_64/eclipse/plugins/org.testng.eclipse_6.8.6.20141201_2240/lib/testng.jar C:\Users\Светлана\Documents\Тренинги\Java для тестировщиков\GITHUB\group23_Java_test\addressbook-selenium-tests\bin C:\Users\Светлана\Documents\Тренинги\Java для тестировщиков\3_Фреймворк Selenium\selenium-server-standalone-2.45.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 54856 -d C:\Users\Светлана\Documents\Тренинги\Java для тестировщиков\GITHUB\group23_Java_test\addressbook-selenium-tests\test-output C:\Users\B215~1\AppData\Local\Temp\testng-eclipse--952330239\testng-customsuite.xml
+java -ea -classpath /C:/Users/Светлана/Documents/Тренинги/Java для тестировщиков/2_Среда разработки Eclipse/eclipse-java-luna-SR2-win32-x86_64/eclipse/plugins/org.testng.eclipse_6.8.6.20141201_2240/lib/testng.jar:C:\Users\Светлана\Documents\Тренинги\Java для тестировщиков\GITHUB\group23_Java_test\addressbook-selenium-tests\bin:C:\Users\Светлана\Documents\Тренинги\Java для тестировщиков\3_Фреймворк Selenium\selenium-server-standalone-2.45.0.jar org.testng.remote.RemoteTestNG -serport 54856 -d C:\Users\Светлана\Documents\Тренинги\Java для тестировщиков\GITHUB\group23_Java_test\addressbook-selenium-tests\test-output C:\Users\B215~1\AppData\Local\Temp\testng-eclipse--952330239\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2015-04-27 13:10:17.338
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:null
+
+!ENTRY org.testng.eclipse 1 0 2015-04-27 13:10:17.385
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: /C:/Users/Светлана/Documents/Тренинги/Java для тестировщиков/2_Среда разработки Eclipse/eclipse-java-luna-SR2-win32-x86_64/eclipse/plugins/org.testng.eclipse_6.8.6.20141201_2240/lib/testng.jar C:\Users\Светлана\Documents\Тренинги\Java для тестировщиков\GITHUB\group23_Java_test\addressbook-selenium-tests\bin C:\Users\Светлана\Documents\Тренинги\Java для тестировщиков\3_Фреймворк Selenium\selenium-server-standalone-2.45.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 54949 -d C:\Users\Светлана\Documents\Тренинги\Java для тестировщиков\GITHUB\group23_Java_test\addressbook-selenium-tests\test-output C:\Users\B215~1\AppData\Local\Temp\testng-eclipse--1912139183\testng-customsuite.xml
+java -ea -classpath /C:/Users/Светлана/Documents/Тренинги/Java для тестировщиков/2_Среда разработки Eclipse/eclipse-java-luna-SR2-win32-x86_64/eclipse/plugins/org.testng.eclipse_6.8.6.20141201_2240/lib/testng.jar:C:\Users\Светлана\Documents\Тренинги\Java для тестировщиков\GITHUB\group23_Java_test\addressbook-selenium-tests\bin:C:\Users\Светлана\Documents\Тренинги\Java для тестировщиков\3_Фреймворк Selenium\selenium-server-standalone-2.45.0.jar org.testng.remote.RemoteTestNG -serport 54949 -d C:\Users\Светлана\Documents\Тренинги\Java для тестировщиков\GITHUB\group23_Java_test\addressbook-selenium-tests\test-output C:\Users\B215~1\AppData\Local\Temp\testng-eclipse--1912139183\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2015-04-27 13:11:15.475
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:null
+
+!ENTRY org.testng.eclipse 1 0 2015-04-27 13:11:15.521
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: /C:/Users/Светлана/Documents/Тренинги/Java для тестировщиков/2_Среда разработки Eclipse/eclipse-java-luna-SR2-win32-x86_64/eclipse/plugins/org.testng.eclipse_6.8.6.20141201_2240/lib/testng.jar C:\Users\Светлана\Documents\Тренинги\Java для тестировщиков\GITHUB\group23_Java_test\addressbook-selenium-tests\bin C:\Users\Светлана\Documents\Тренинги\Java для тестировщиков\3_Фреймворк Selenium\selenium-server-standalone-2.45.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 55043 -d C:\Users\Светлана\Documents\Тренинги\Java для тестировщиков\GITHUB\group23_Java_test\addressbook-selenium-tests\test-output C:\Users\B215~1\AppData\Local\Temp\testng-eclipse-1706516168\testng-customsuite.xml
+java -ea -classpath /C:/Users/Светлана/Documents/Тренинги/Java для тестировщиков/2_Среда разработки Eclipse/eclipse-java-luna-SR2-win32-x86_64/eclipse/plugins/org.testng.eclipse_6.8.6.20141201_2240/lib/testng.jar:C:\Users\Светлана\Documents\Тренинги\Java для тестировщиков\GITHUB\group23_Java_test\addressbook-selenium-tests\bin:C:\Users\Светлана\Documents\Тренинги\Java для тестировщиков\3_Фреймворк Selenium\selenium-server-standalone-2.45.0.jar org.testng.remote.RemoteTestNG -serport 55043 -d C:\Users\Светлана\Documents\Тренинги\Java для тестировщиков\GITHUB\group23_Java_test\addressbook-selenium-tests\test-output C:\Users\B215~1\AppData\Local\Temp\testng-eclipse-1706516168\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2015-04-27 13:14:43.443
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:null
+
+!ENTRY org.testng.eclipse 1 0 2015-04-27 13:14:55.021
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:null
+
+!ENTRY org.testng.eclipse 1 0 2015-04-27 13:15:10.975
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:null
+
+!ENTRY org.testng.eclipse 1 0 2015-04-27 13:15:10.990
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: /C:/Users/Светлана/Documents/Тренинги/Java для тестировщиков/2_Среда разработки Eclipse/eclipse-java-luna-SR2-win32-x86_64/eclipse/plugins/org.testng.eclipse_6.8.6.20141201_2240/lib/testng.jar C:\Users\Светлана\Documents\Тренинги\Java для тестировщиков\GITHUB\group23_Java_test\addressbook-selenium-tests\bin C:\Users\Светлана\Documents\Тренинги\Java для тестировщиков\3_Фреймворк Selenium\selenium-server-standalone-2.45.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 55172 -d C:\Users\Светлана\Documents\Тренинги\Java для тестировщиков\GITHUB\group23_Java_test\addressbook-selenium-tests\test-output C:\Users\B215~1\AppData\Local\Temp\testng-eclipse--289624067\testng-customsuite.xml
+java -ea -classpath /C:/Users/Светлана/Documents/Тренинги/Java для тестировщиков/2_Среда разработки Eclipse/eclipse-java-luna-SR2-win32-x86_64/eclipse/plugins/org.testng.eclipse_6.8.6.20141201_2240/lib/testng.jar:C:\Users\Светлана\Documents\Тренинги\Java для тестировщиков\GITHUB\group23_Java_test\addressbook-selenium-tests\bin:C:\Users\Светлана\Documents\Тренинги\Java для тестировщиков\3_Фреймворк Selenium\selenium-server-standalone-2.45.0.jar org.testng.remote.RemoteTestNG -serport 55172 -d C:\Users\Светлана\Documents\Тренинги\Java для тестировщиков\GITHUB\group23_Java_test\addressbook-selenium-tests\test-output C:\Users\B215~1\AppData\Local\Temp\testng-eclipse--289624067\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2015-04-27 13:16:42.458
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:com.example.tests [in src [in addressbook-selenium-tests]]
+  [Working copy] ContactData.java
+    package com.example.tests
+    class ContactData
+      String firstName
+      String lastName
+      String address1
+      String phoneHome
+      String phoneMobile
+      String phoneWork
+      String email1
+      String email2
+      String bDay
+      String bMonth
+      String bYear
+      String address2
+      String phoneHome2
+      ContactData()
+      ContactData(String, String, String, String, String, String, String, String, String, String, String, String, String)
+  [Working copy] ContactCreationTests.java
+    package com.example.tests
+    import org.testng.annotations.Test
+    class ContactCreationTests
+      void testNonEmptyContactCreation()
+      void testEmptyDateNonEmptyContactCreation()
+      void testEmptyContactCreation()
+  GroupCreationTests.java
+    package com.example.tests
+    import org.testng.annotations.Test
+    class GroupCreationTests
+      void testNonEmptyGroupCreation()
+      void testEmptyGroupCreation()
+  GroupData.java
+    package com.example.tests
+    class GroupData
+      String name
+      String header
+      String footer
+      GroupData()
+      GroupData(String, String, String)
+  AlsoGroupCreationTests.java (not open)
+  [Working copy] TestBase.java
+    package com.example.tests
+    import org.junit.Assert.fail
+    import java.util.concurrent.TimeUnit
+    import org.openqa.selenium.Alert
+    import org.openqa.selenium.By
+    import org.openqa.selenium.NoAlertPresentException
+    import org.openqa.selenium.NoSuchElementException
+    import org.openqa.selenium.WebDriver
+    import org.openqa.selenium.firefox.FirefoxDriver
+    import org.openqa.selenium.support.ui.Select
+    import org.testng.annotations.AfterTest
+    import org.testng.annotations.BeforeTest
+    class TestBase
+      WebDriver driver
+      String baseUrl
+      boolean acceptNextAlert
+      StringBuffer verificationErrors
+      void setUp()
+      void tearDown()
+      void returnToGroupsPage()
+      void submitGroupCreation()
+      void fillGroupForm(GroupData)
+      void initNewGroupCreation()
+      void gotoGroupsPage()
+      void openMainPage()
+      boolean isElementPresent(By)
+      boolean isAlertPresent()
+      String closeAlertAndGetItsText()
+      void gotoHomePage()
+      void submitContactCreation()
+      void fillContactForm(ContactData)
+      void initNewContactCreation()
+
+!ENTRY org.testng.eclipse 1 0 2015-04-27 13:16:42.520
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: /C:/Users/Светлана/Documents/Тренинги/Java для тестировщиков/2_Среда разработки Eclipse/eclipse-java-luna-SR2-win32-x86_64/eclipse/plugins/org.testng.eclipse_6.8.6.20141201_2240/lib/testng.jar C:\Users\Светлана\Documents\Тренинги\Java для тестировщиков\GITHUB\group23_Java_test\addressbook-selenium-tests\bin C:\Users\Светлана\Documents\Тренинги\Java для тестировщиков\3_Фреймворк Selenium\selenium-server-standalone-2.45.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 55265 -d C:\Users\Светлана\Documents\Тренинги\Java для тестировщиков\GITHUB\group23_Java_test\addressbook-selenium-tests\test-output C:\Users\B215~1\AppData\Local\Temp\testng-eclipse--46385618\testng-customsuite.xml
+java -ea -classpath /C:/Users/Светлана/Documents/Тренинги/Java для тестировщиков/2_Среда разработки Eclipse/eclipse-java-luna-SR2-win32-x86_64/eclipse/plugins/org.testng.eclipse_6.8.6.20141201_2240/lib/testng.jar:C:\Users\Светлана\Documents\Тренинги\Java для тестировщиков\GITHUB\group23_Java_test\addressbook-selenium-tests\bin:C:\Users\Светлана\Documents\Тренинги\Java для тестировщиков\3_Фреймворк Selenium\selenium-server-standalone-2.45.0.jar org.testng.remote.RemoteTestNG -serport 55265 -d C:\Users\Светлана\Documents\Тренинги\Java для тестировщиков\GITHUB\group23_Java_test\addressbook-selenium-tests\test-output C:\Users\B215~1\AppData\Local\Temp\testng-eclipse--46385618\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2015-04-27 13:18:46.485
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:null
+
+!ENTRY org.testng.eclipse 1 0 2015-04-27 13:18:46.516
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: /C:/Users/Светлана/Documents/Тренинги/Java для тестировщиков/2_Среда разработки Eclipse/eclipse-java-luna-SR2-win32-x86_64/eclipse/plugins/org.testng.eclipse_6.8.6.20141201_2240/lib/testng.jar C:\Users\Светлана\Documents\Тренинги\Java для тестировщиков\GITHUB\group23_Java_test\addressbook-selenium-tests\bin C:\Users\Светлана\Documents\Тренинги\Java для тестировщиков\3_Фреймворк Selenium\selenium-server-standalone-2.45.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 55605 -d C:\Users\Светлана\Documents\Тренинги\Java для тестировщиков\GITHUB\group23_Java_test\addressbook-selenium-tests\test-output C:\Users\B215~1\AppData\Local\Temp\testng-eclipse-1133470693\testng-customsuite.xml
+java -ea -classpath /C:/Users/Светлана/Documents/Тренинги/Java для тестировщиков/2_Среда разработки Eclipse/eclipse-java-luna-SR2-win32-x86_64/eclipse/plugins/org.testng.eclipse_6.8.6.20141201_2240/lib/testng.jar:C:\Users\Светлана\Documents\Тренинги\Java для тестировщиков\GITHUB\group23_Java_test\addressbook-selenium-tests\bin:C:\Users\Светлана\Documents\Тренинги\Java для тестировщиков\3_Фреймворк Selenium\selenium-server-standalone-2.45.0.jar org.testng.remote.RemoteTestNG -serport 55605 -d C:\Users\Светлана\Documents\Тренинги\Java для тестировщиков\GITHUB\group23_Java_test\addressbook-selenium-tests\test-output C:\Users\B215~1\AppData\Local\Temp\testng-eclipse-1133470693\testng-customsuite.xml

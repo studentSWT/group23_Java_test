@@ -1,0 +1,70 @@
+package com.example.tests;
+
+import java.util.regex.Pattern;
+import java.util.concurrent.TimeUnit;
+
+import static org.junit.Assert.*;
+import static org.hamcrest.CoreMatchers.*;
+
+import org.openqa.selenium.*;
+import org.openqa.selenium.firefox.FirefoxDriver;
+import org.testng.annotations.AfterClass;
+import org.testng.annotations.BeforeClass;
+import org.testng.annotations.Test;
+
+public class ContactCreationTests extends TestBase{
+
+  
+
+  @Test
+  public void testNonEmptyContactCreation() throws Exception {
+	// open main page
+    driver.get(baseUrl + "/addressbookv4.1.4/");
+    initNewContactCreation();
+    ContactData contact = new ContactData();
+    contact.firstName = "vika3";
+    contact.lastName = "kot3";
+    contact.address1 = "addr";
+    contact.phoneHome = "111";
+    contact.phoneMobile = "222";
+    contact.phoneWork = "333";
+    contact.email1 = "aaa@bb.cc";
+    contact.email2 = "aaa1@bb.cc";
+    contact.bDay = "10";
+    contact.bMonth = "June";
+    contact.bYear = "1980";
+    contact.address2 = "address3";
+    contact.phoneHome2 = "555";
+   
+	fillContactForm(contact);
+    submitContactCreation();
+    gotoHomePage();
+  }
+  
+  @Test
+  public void testDEmptyContactCreation() throws Exception {
+	// open main page
+    driver.get(baseUrl + "/addressbookv4.1.4/");
+    initNewContactCreation();
+    fillContactForm(new ContactData("", "", "", "", "", "", "", "", "1960", "19", "May", "address 22", "home 22"));
+    submitContactCreation();
+    gotoHomePage();
+  }
+  
+  @Test
+  public void testEmptyContactCreation() throws Exception {
+	// open main page
+    driver.get(baseUrl + "/addressbookv4.1.4/");
+    initNewContactCreation();
+    fillContactForm(new ContactData("", "", "", "", "", "", "", "", "", "", "", "", ""));
+    submitContactCreation();
+    gotoHomePage();
+  }
+
+
+
+
+
+
+
+}
