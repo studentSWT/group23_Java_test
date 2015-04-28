@@ -64,3 +64,4 @@
 1430220851931	Inline local variable 'locator'
 1430220861514	Inline local variable 'text'
 1430226141680	Extract method 'selectGroupByIndex'
+1430233100088	Extract local variable 'alt'
