@@ -1,0 +1,21 @@
+package com.example.fm;
+
+import static org.junit.Assert.fail;
+
+import org.openqa.selenium.By;
+import org.testng.annotations.AfterTest;
+
+import com.example.tests.TestBase;
+
+public class ApplicationManager {
+
+	@AfterTest
+	public void tearDown() throws Exception {
+	    TestBase.driver.quit();
+	    String verificationErrorString = TestBase.verificationErrors.toString();
+	    if (!"".equals(verificationErrorString)) {
+	      fail(verificationErrorString);
+	    }
+	  }
+	
+}

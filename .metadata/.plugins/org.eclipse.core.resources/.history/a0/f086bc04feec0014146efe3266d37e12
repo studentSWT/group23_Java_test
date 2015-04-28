@@ -1,0 +1,11 @@
+package com.example.fm;
+
+import org.openqa.selenium.By;
+
+public class GroupHelper {
+
+	public void initNewGroupCreation() {
+		ApplicationManager.driver.findElement(By.name("new")).click();
+	  }
+
+}

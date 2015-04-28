@@ -1,0 +1,29 @@
+package com.example.fm;
+
+import org.openqa.selenium.By;
+import org.openqa.selenium.NoSuchElementException;
+
+public class NavigationHelper {
+
+	public void openMainPage() {
+		ApplicationManager.driver.get(ApplicationManager.baseUrl + "/addressbookv4.1.4/");
+	  }
+
+	public void gotoGroupsPage() {
+		ApplicationManager.driver.findElement(By.linkText("groups")).click();
+	  }
+
+	public void initNewGroupCreation() {
+		ApplicationManager.driver.findElement(By.name("new")).click();
+	  }
+
+	public boolean isElementPresent(By by) {
+	    try {
+	      ApplicationManager.driver.findElement(by);
+	      return true;
+	    } catch (NoSuchElementException e) {
+	      return false;
+	    }
+	  }
+
+}

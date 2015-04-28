@@ -1,0 +1,11 @@
+package com.example.fm;
+
+import org.openqa.selenium.By;
+
+public class ContactHelper {
+
+	public void submitContactCreation() {
+	    ApplicationManager.driver.findElement(By.name("submit")).click();
+	}
+
+}

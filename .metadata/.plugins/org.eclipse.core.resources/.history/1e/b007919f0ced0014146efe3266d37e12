@@ -1,0 +1,14 @@
+package com.example.fm;
+
+public abstract class HelperBase {
+	
+	protected ApplicationManager manager;
+
+	// protected ApplicationManager manager;
+	
+	public HelperBase(ApplicationManager manager) {
+		this.manager = manager;
+		
+	}
+
+}

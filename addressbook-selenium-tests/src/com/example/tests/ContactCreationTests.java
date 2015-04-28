@@ -6,8 +6,8 @@ public class ContactCreationTests extends TestBase{
 
   @Test
   public void testNonEmptyContactCreation() throws Exception {
-	openMainPage();
-	initNewContactCreation();
+	app.getNavigationHelper().openMainPage();
+	app.getContactHelper().initNewContactCreation();
     ContactData contact = new ContactData();
     contact.firstName = "vika4";
     contact.lastName = "kot3";
@@ -23,15 +23,15 @@ public class ContactCreationTests extends TestBase{
     contact.address2 = "address3";
     contact.phoneHome2 = "555";
    
-	fillContactForm(contact);
-    submitContactCreation();
-    gotoHomePage();
+	app.getContactHelper().fillContactForm(contact);
+    app.getContactHelper().submitContactCreation();
+    app.getContactHelper().gotoHomePage();
   }
   
   @Test
   public void testEmptyDateNonEmptyContactCreation() throws Exception {
-	openMainPage();
-	initNewContactCreation();
+	app.getNavigationHelper().openMainPage();
+	app.getContactHelper().initNewContactCreation();
     ContactData contact = new ContactData();
 	
     contact.firstName = "EmptyDate";
@@ -47,18 +47,18 @@ public class ContactCreationTests extends TestBase{
     contact.bYear = "1970";
     contact.address2 = "address3";
     contact.phoneHome2 = "555";
-    fillContactForm(contact);
-    submitContactCreation();
-    gotoHomePage();
+    app.getContactHelper().fillContactForm(contact);
+    app.getContactHelper().submitContactCreation();
+    app.getContactHelper().gotoHomePage();
   }
 
   @Test
   public void testEmptyContactCreation() throws Exception {
-	openMainPage();
-	initNewContactCreation();
-    fillContactForm(new ContactData("", "", "", "", "", "", "", "", "-", "-", "-", "", ""));
-    submitContactCreation();
-    gotoHomePage();
+	app.getNavigationHelper().openMainPage();
+	app.getContactHelper().initNewContactCreation();
+    app.getContactHelper().fillContactForm(new ContactData("", "", "", "", "", "", "", "", "-", "-", "-", "", ""));
+    app.getContactHelper().submitContactCreation();
+    app.getContactHelper().gotoHomePage();
   }
 
 

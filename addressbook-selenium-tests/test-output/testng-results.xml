@@ -2,24 +2,24 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="8133" started-at="2015-04-27T10:18:46Z" finished-at="2015-04-27T10:18:55Z">
+  <suite name="Default suite" duration-ms="6200" started-at="2015-04-28T13:27:09Z" finished-at="2015-04-28T13:27:15Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="8133" started-at="2015-04-27T10:18:46Z" finished-at="2015-04-27T10:18:55Z">
-      <class name="com.example.tests.ContactCreationTests">
-        <test-method status="PASS" signature="setUp()[pri:0, instance:com.example.tests.ContactCreationTests@318c6fd4]" name="setUp" is-config="true" duration-ms="3782" started-at="2015-04-27T13:18:46Z" finished-at="2015-04-27T13:18:50Z">
+    <test name="Default test" duration-ms="6200" started-at="2015-04-28T13:27:09Z" finished-at="2015-04-28T13:27:15Z">
+      <class name="com.example.tests.CroupModificationTests">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.example.tests.CroupModificationTests@4d4acd0b]" name="setUp" is-config="true" duration-ms="4100" started-at="2015-04-28T16:27:09Z" finished-at="2015-04-28T16:27:13Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="testEmptyDateNonEmptyContactCreation()[pri:0, instance:com.example.tests.ContactCreationTests@318c6fd4]" name="testEmptyDateNonEmptyContactCreation" duration-ms="4148" started-at="2015-04-27T13:18:50Z" finished-at="2015-04-27T13:18:54Z">
+        <test-method status="PASS" signature="modifySomeGroup()[pri:0, instance:com.example.tests.CroupModificationTests@4d4acd0b]" name="modifySomeGroup" duration-ms="1830" started-at="2015-04-28T16:27:13Z" finished-at="2015-04-28T16:27:15Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testEmptyDateNonEmptyContactCreation -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.example.tests.ContactCreationTests@318c6fd4]" name="tearDown" is-config="true" duration-ms="203" started-at="2015-04-27T13:18:54Z" finished-at="2015-04-27T13:18:55Z">
+        </test-method> <!-- modifySomeGroup -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.example.tests.CroupModificationTests@4d4acd0b]" name="tearDown" is-config="true" duration-ms="260" started-at="2015-04-28T16:27:15Z" finished-at="2015-04-28T16:27:15Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-      </class> <!-- com.example.tests.ContactCreationTests -->
+      </class> <!-- com.example.tests.CroupModificationTests -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

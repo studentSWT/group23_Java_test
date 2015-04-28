@@ -1,0 +1,9 @@
+package com.example.fm;
+
+import org.openqa.selenium.By;
+
+import com.example.tests.TestBase;
+
+public class ApplicationManager {
+	
+}
