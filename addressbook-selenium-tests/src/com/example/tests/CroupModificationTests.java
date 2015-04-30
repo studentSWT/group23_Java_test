@@ -14,4 +14,5 @@ public class CroupModificationTests extends TestBase {
 		app.getGroupHelper().submitGroupModification();
 		app.getGroupHelper().returnToGroupsPage();
 	}
+	
 }
