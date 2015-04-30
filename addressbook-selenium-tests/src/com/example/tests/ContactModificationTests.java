@@ -27,6 +27,5 @@ public class ContactModificationTests extends TestBase {
 	    app.getContactHelper().submitContactModification("Update");
 	    app.getContactHelper().gotoHomePage();
 	}
-
 	
 }

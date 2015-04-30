@@ -58,8 +58,7 @@ public abstract class HelperBase {
 		 if (text != null) {
 			driver.findElement(locator).clear();
 			driver.findElement(locator).sendKeys(text);	
-		}
-		
+		}		
 	}
 
 	protected void click(By locator) {
@@ -71,5 +70,4 @@ public abstract class HelperBase {
 		   new Select(driver.findElement(locator)).selectByVisibleText(text);
 		}
 	}
-
 }

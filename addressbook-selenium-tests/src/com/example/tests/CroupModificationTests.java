@@ -1,5 +1,5 @@
 package com.example.tests;
-//
+
 import org.testng.annotations.Test;
 
 public class CroupModificationTests extends TestBase {
@@ -13,6 +13,5 @@ public class CroupModificationTests extends TestBase {
 		app.getGroupHelper().fillGroupForm(group);
 		app.getGroupHelper().submitGroupModification();
 		app.getGroupHelper().returnToGroupsPage();
-	}
-	
+	}	
 }

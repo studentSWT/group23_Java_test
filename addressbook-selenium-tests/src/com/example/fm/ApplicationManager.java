@@ -1,7 +1,5 @@
 package com.example.fm;
 
-import static org.junit.Assert.fail;
-
 import java.util.concurrent.TimeUnit;
 
 import org.openqa.selenium.WebDriver;

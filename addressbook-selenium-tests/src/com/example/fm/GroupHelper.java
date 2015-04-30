@@ -7,8 +7,7 @@ import com.example.tests.GroupData;
 public class GroupHelper extends HelperBase{
 
 	public GroupHelper(ApplicationManager manager) {
-		super(manager);
-		
+		super(manager);		
 	}
 
 	public void initNewGroupCreation() {
@@ -31,8 +30,7 @@ public class GroupHelper extends HelperBase{
 
 	public void deleteGroup(int index) {
 		selectGroupByIndex(index);
-		click(By.name("delete"));
-		
+		click(By.name("delete"));		
 	}
 
 	private void selectGroupByIndex(int index) {
@@ -45,8 +43,6 @@ public class GroupHelper extends HelperBase{
 	}
 
 	public void submitGroupModification() {
-		click(By.name("update"));
-		
+		click(By.name("update"));	
 	}
-
 }

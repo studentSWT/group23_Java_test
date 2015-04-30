@@ -65,3 +65,6 @@
 1430220861514	Inline local variable 'text'
 1430226141680	Extract method 'selectGroupByIndex'
 1430233100088	Extract local variable 'alt'
+1430396461137	Rename field 'bYear'
+1430396493157	Rename local variable 'bMonth'
+1430396504703	Rename local variable 'bYear'
