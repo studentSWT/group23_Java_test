@@ -17,12 +17,11 @@ public class ContactCreationTests extends TestBase{
     contact.phoneWork = "333";
     contact.email1 = "aaa@bb.cc";
     contact.email2 = "aaa1@bb.cc";
-    contact.bDay = "10";
-    contact.bMonth = "June";
-    contact.bYear = "1980";
+    contact.birthDay = "10";
+    contact.birthMonth = "June";
+    contact.birthYear = "1980";
     contact.address2 = "address3";
     contact.phoneHome2 = "555";
-   
 	app.getContactHelper().fillContactForm(contact);
     app.getContactHelper().submitContactCreation();
     app.getContactHelper().gotoHomePage();
@@ -42,9 +41,9 @@ public class ContactCreationTests extends TestBase{
     contact.phoneWork = "456";
     contact.email1 = "hhh@yandex.ru";
     contact.email2 = "qqq@gmail.com";
-    contact.bDay = "-";
-    contact.bMonth = "-";
-    contact.bYear = "1970";
+    contact.birthDay = "-";
+    contact.birthMonth = "-";
+    contact.birthYear = "1970";
     contact.address2 = "address3";
     contact.phoneHome2 = "555";
     app.getContactHelper().fillContactForm(contact);
@@ -60,11 +59,4 @@ public class ContactCreationTests extends TestBase{
     app.getContactHelper().submitContactCreation();
     app.getContactHelper().gotoHomePage();
   }
-
-
-
-
-
-
-
 }
